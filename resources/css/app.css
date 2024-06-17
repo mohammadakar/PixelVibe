@@ -69,5 +69,6 @@
     }
     .card{
         @apply w-full bg-white;
+
     }
 }
